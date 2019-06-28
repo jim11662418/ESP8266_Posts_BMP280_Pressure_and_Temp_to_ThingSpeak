@@ -16,7 +16,7 @@
 -- GPIO15 = 8
 -- GPIO16 = 0	
 
-WRITEKEY = "AXB9T6VGTSV8MHW0"   -- ThingSpeak write api key for this channel
+WRITEKEY = "*****************"   -- ThingSpeak write api key for this channel
 
 LED=GPIO0	        -- use GPIO0 output for the heartbeat LED
 LEDTIME=50          -- 50 milliseconds for LED
